@@ -3,4 +3,6 @@
 
 Machine Learning and Data Science
 
-Área da saúde precisa bastante.
+------- Área da saúde -----------
+
+*Projetos promissores*
